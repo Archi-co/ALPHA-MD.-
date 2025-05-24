@@ -30,7 +30,7 @@
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "Arch",
       "required": false
     },
     "TIMEZONE": {
@@ -45,22 +45,22 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA5VU25KiSBD9l3rVGLmKGNERi4CISAsiKr2xDwUUUMpNClCc8N830O7piZjd2V6eiqzKzHMyT+Z3kBeYIAN1YPodlBVuYY36Y92VCEzBrIkiVIEhCGENwRR4chGcOr8zJHprb5oxUUw1dIUIvtX+enZyIy6/+clNLnLyAu5DUDZ+ioPfBNRD+9zMbyGuWkp0aZG6ujsDmtqK6JTdhPvsIGQDb3uqbfMF3PuIEFc4j9UyQRmqYGqgzoK4+hr801LTeF/DwnUxKgdLdNYUk3cGx0jpHJgU88N8kpxt+hRk3Nfgv70mr/5KUkbJ8djUs9ds2x3VcMybGyYOqeSqZO15xK2oGeM+4RMc5yjUQ5TXuO6+XHe41petLVRhso9fxWietodDNJotm4W4Om86ddsWUGjJ1lO/CPzQsQc1D4W22gvLKhi4q6SLjWYXuQq8RGWCGBOK2HEXsfczcKv60Mrp/9S9WfNnwihrY3G+sccoI8tVNMerVFZns92y3lv0ulnuR0fa1b8GP5osOqJZB9NtbqzvvI3Xq603xwtPzq1w6Xg3q2gcf6n6DPcJH9ZN9TuUunT161Gyw1SxGIySZctcReN2vVnX276pw8VZT+zF2GEwOxMta3MMF2YeI2WUoeIYGN5CmIv7BecroUVZHXZSV2tC6fLyYHRCnR6CKX0fggrFmNQVrHGRP2y0OAQwbB0UVKh+lBdoSR5dxrvLdeOZvlC4JD++dgd+n3pmYHvZWfe0zRoPQkdwX8AQlFURIEJQuMCkLqrORITAGBEw/fPRqZ50hbKiRkscgilgeI6mOZGnRZb/g3y7JLAmsCy/5agGQxBVRWYiMK2rBg3Bw2Gs0pwsMzSlTOYCLczm4lhleXomTSYiQwt8TzF7Jt3iDJEaZiWY0gI3oSmap9j7X0OQo2v91E/PmqWHIMIVqd28KdMChh/i+riEQVA0ee10eSD3B1SBKfVpRnWN85j0zJocVkGCWyT3PMA0gilBPwqNKhR+cHlfHnIR9v3fCuMNI/Ab0GPvA/1Smyk7/rU8OexfA6nPmaEQETAE6cOVm0zEyZhhaHpMMZPeubfff4Duc4SohjglYApk/Thhz5e5us6d60TVNMmMJTmWwCfJD9E+RZFo1zfBHQixmWCltfTJjTtvT0hkadbIE1/1/ObU7rRitSte/iEImIKzzPoMvzs4gzkvFZk6VzUFLa9C4KAEnleNKZeVOEjtwvYuupEmaIW0fdvM7CK2U8MXxpOVvxc9srQJyW5zRb3IqSS99NlC1OIA/ZyME1hK19/izPRET8kdHLM7Z2VwSqobipVbO4twQVmo9is/nlMz0Y0ylovXrd/pA3vSQTTDgSRVnnwr4FY+uWhu5LL9HKfHOKfvaxS/Cx0/fiOMHlvpvU3/2c4n8F511H34U4z3Pfcvu2Lmbcge0VbDKboXC7fOMgfGiV+0oRh2Jbe/appQrujNWaYhuPfyL1NYR0WVgSkgmQ/BEFRF02tYz6PiN5lkidJn77RTSGrpcy5+HTVO5J+vrKooF5AkYArYjfjGir3IO6ksnRrWH2MGpP4zPAbc/wYa6AlsCQgAAA==",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "Archi",
       "required": false
     },
     "URL": {
       "description": "You must add your bot image URL",
-      "value": "",
+      "value": "🤖",
       "required": true
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547222222233')",
-      "value": "",
+      "value": "254114951935",
       "required": false
     }
   },
